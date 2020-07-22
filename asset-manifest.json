@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/css/main.f6c51823.chunk.css",
+    "main.js": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/main.7a43aee4.chunk.js",
+    "main.js.map": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/main.7a43aee4.chunk.js.map",
+    "runtime-main.js": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/runtime-main.77ed4ae7.js",
+    "runtime-main.js.map": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/runtime-main.77ed4ae7.js.map",
+    "static/js/2.02af7f22.chunk.js": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js",
+    "static/js/2.02af7f22.chunk.js.map": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js.map",
+    "index.html": "/HenriqueBaetaLeite/lista-de-tarefas.git/index.html",
+    "precache-manifest.5dd4d5e118aea0619ff4b7017524a59b.js": "/HenriqueBaetaLeite/lista-de-tarefas.git/precache-manifest.5dd4d5e118aea0619ff4b7017524a59b.js",
+    "service-worker.js": "/HenriqueBaetaLeite/lista-de-tarefas.git/service-worker.js",
+    "static/css/main.f6c51823.chunk.css.map": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/css/main.f6c51823.chunk.css.map",
+    "static/js/2.02af7f22.chunk.js.LICENSE.txt": "/HenriqueBaetaLeite/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ed4ae7.js",
+    "static/js/2.02af7f22.chunk.js",
+    "static/css/main.f6c51823.chunk.css",
+    "static/js/main.7a43aee4.chunk.js"
+  ]
+}
