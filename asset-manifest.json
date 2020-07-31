@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lista-de-tarefas.git/static/css/main.f6c51823.chunk.css",
-    "main.js": "/lista-de-tarefas.git/static/js/main.7a43aee4.chunk.js",
-    "main.js.map": "/lista-de-tarefas.git/static/js/main.7a43aee4.chunk.js.map",
-    "runtime-main.js": "/lista-de-tarefas.git/static/js/runtime-main.28bf5aef.js",
-    "runtime-main.js.map": "/lista-de-tarefas.git/static/js/runtime-main.28bf5aef.js.map",
-    "static/js/2.02af7f22.chunk.js": "/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js",
-    "static/js/2.02af7f22.chunk.js.map": "/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js.map",
-    "index.html": "/lista-de-tarefas.git/index.html",
-    "precache-manifest.4a6717bb3aaa0eb167a21e468f6ac3ad.js": "/lista-de-tarefas.git/precache-manifest.4a6717bb3aaa0eb167a21e468f6ac3ad.js",
-    "service-worker.js": "/lista-de-tarefas.git/service-worker.js",
-    "static/css/main.f6c51823.chunk.css.map": "/lista-de-tarefas.git/static/css/main.f6c51823.chunk.css.map",
-    "static/js/2.02af7f22.chunk.js.LICENSE.txt": "/lista-de-tarefas.git/static/js/2.02af7f22.chunk.js.LICENSE.txt"
+    "main.css": "/lista-de-tarefas/static/css/main.f6c51823.chunk.css",
+    "main.js": "/lista-de-tarefas/static/js/main.7a43aee4.chunk.js",
+    "main.js.map": "/lista-de-tarefas/static/js/main.7a43aee4.chunk.js.map",
+    "runtime-main.js": "/lista-de-tarefas/static/js/runtime-main.25a5e094.js",
+    "runtime-main.js.map": "/lista-de-tarefas/static/js/runtime-main.25a5e094.js.map",
+    "static/js/2.02af7f22.chunk.js": "/lista-de-tarefas/static/js/2.02af7f22.chunk.js",
+    "static/js/2.02af7f22.chunk.js.map": "/lista-de-tarefas/static/js/2.02af7f22.chunk.js.map",
+    "index.html": "/lista-de-tarefas/index.html",
+    "precache-manifest.718b287417f0c6d9cf81fb4a6da3b890.js": "/lista-de-tarefas/precache-manifest.718b287417f0c6d9cf81fb4a6da3b890.js",
+    "service-worker.js": "/lista-de-tarefas/service-worker.js",
+    "static/css/main.f6c51823.chunk.css.map": "/lista-de-tarefas/static/css/main.f6c51823.chunk.css.map",
+    "static/js/2.02af7f22.chunk.js.LICENSE.txt": "/lista-de-tarefas/static/js/2.02af7f22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28bf5aef.js",
+    "static/js/runtime-main.25a5e094.js",
     "static/js/2.02af7f22.chunk.js",
     "static/css/main.f6c51823.chunk.css",
     "static/js/main.7a43aee4.chunk.js"
