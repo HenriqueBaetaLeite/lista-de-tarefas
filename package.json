@@ -1,7 +1,7 @@
 {
   "name": "my-todo-list",
   "version": "0.0.1",
-  "homepage": "https://HenriqueBaetaLeite/lista-de-tarefas.git",
+  "homepage": "https://HenriqueBaetaLeite.github.io/lista-de-tarefas",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
